@@ -1,0 +1,24 @@
+--- FONTS ---
+(Copy paste this into your CSS rules where appropriate)
+font-family: 'Indie Flower', cursive;
+font-family: 'Open Sans', sans-serif;
+
+--- ICONS ---
+(Copy paste each into a social-media-icon div)
+Facebook:
+  <i class="fa fa-facebook-square" aria-hidden="true"></i>
+LinkedIn:
+  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+Instagram:
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+Github:
+  <i class="fa fa-github" aria-hidden="true"></i>
+
+--- THINGS I DID FOR YOU ---
+- Divs inside each info-page div will be centered horizontally (FLEXBOX MAGIC)
+- On the skills page, just add new skill-items to the skills-container.
+Flexbox will take care of the wrapping and spacing and stuff.
+
+--- HINTS ---
+- Treat <i> tags like text. You can use color and font-size to style them
+- Sometimes height and width have to be set explicitly. Let me know if you have questions!
